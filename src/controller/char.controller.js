@@ -1,9 +1,9 @@
 const axios = require('axios')
 
-const ts = '1617309428'
+const ts = '789465135'
 const apikey = '1f17ccd6d401ef2b6a8afad46051ce12'
 const urlAll = 'http://gateway.marvel.com/v1/public/characters'
-const hash = '539cae00b6625a526d549ce56e247be3'
+const hash = 'c3eb60df57adbb77f8fa3b6ce45a3e72'
 
 const listAllChar = (req, res) => {
     var url = urlAll + endUrl()
